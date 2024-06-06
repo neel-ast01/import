@@ -161,7 +161,7 @@ This project demonstrates how to efficiently import large CSV files into a Larav
     </html>
     ```
 
-4. Navigate to your form in the browser to test the import functionality (e.g., `http://your-domain/import`).
+4. Navigate to your form in the browser to test the import functionality (e.g., `http://127.0.0.1:8000`).
 
 ## Logging
 
